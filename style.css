@@ -64,26 +64,26 @@ nav ul a {
 }
 
 nav ul a:hover,
-.aktivní a {
+.active a {
   padding: 10px 20px;
   border-radius: 20px;
   background-color: #6CE5E8;
 }
 
-.kontakt-tlacitko {
+.kontakt-button {
   background: #6CE5E8;
   padding: 10px 20px;
   border-radius: 20px;
 }
 
-.kontakt-tlacitko:hover {
+.kontakt-button:hover {
   filter: brightness(115%) contrast(85%);
 	border: 0;
   font-size: 25px;
 }
 
 
-.centrovany {
+.center {
   text-align: center;
   margin-top: 30px;
 }
@@ -162,9 +162,6 @@ footer {
   background: black;
   padding: 15px;
   
-}
-.cistic {
-  clear: both;
 }
 
 #dovednosti td {
